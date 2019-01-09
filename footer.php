@@ -32,7 +32,7 @@
       	<ul class="animated bounceInDown">
         <li><a href="javascript:void(0)">Privacy Policy</a></li>
          <li><a href="javascript:void(0)">Disclaimer</a></li>
-        	<li><a href="sitemap.html">Site Map</a></li>
+            <li><a href="sitemap.html">Site Map</a></li>
            
             
         </ul>
