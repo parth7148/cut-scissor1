@@ -38,7 +38,7 @@
         </ul>
       </div>
        <div class="equalWidth text-right animated bounceInDown" style="display: none" ><a href="https://www.finessse.digital/" target="_blank" rel="nofollow"><img src="public/images/fisplLogo.png"></a></div>
-      <div class="clearfix"></div>
+      <div class="clearfix"></div> 
    
 </footer>
 </div>
